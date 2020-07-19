@@ -11,7 +11,7 @@ webdoc/
 .springBeans
 
 ### IntelliJ IDEA ###
-.idea
+*.idea
 *.iws
 *.iml
 *.ipr
